@@ -1,0 +1,36 @@
+{
+    "dr":{
+        "name":"Punith P",
+        "reg":"420840",
+        "phno":"+91 984202012",
+        "degree":"M.B.B.S"
+    },
+    "patient":{
+        "name":"Suhail",
+        "age":"25",
+        "weight":"95",
+        "bp":"78/85",
+        "disease":"Hair Fall"
+    },
+    "hospital":{
+        "name":"SS Hospital",
+        "address":"Hebbal Road, Banglore-560086",
+        "phno": "42084042089",
+        "date":"01-09-2012"
+    },
+    "tablets":[
+        {
+            "name":"Nimuside P",
+            "time":"1-0-1"
+        },
+        {
+            "name":"Naach c200",
+            "time":"0-0-1"
+        },
+        {
+            "name":"Dpk sissya",
+            "time":"1-2-1"
+        }
+    ],
+    "remarks":"Drink pleanty of water. Avoid getting stressed"
+}
